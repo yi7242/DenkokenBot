@@ -2,10 +2,10 @@
 
 ## 必要なもの
 - Python
-- discord.py(pip install discord.py)
+- discord.py (pip install discord.py)
 
 ## 準備
 - key.pyのtokenの中にボットのトークンを入れる
 
 ## 実行方法
-- bot.pyを実行(python bot.py)
+- denkokenbot.pyを実行 (python denkokenbot.py)
